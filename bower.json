@@ -16,7 +16,7 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-control": "^5.0.0",
-    "purescript-prelude": "^5.0.0"
+    "purescript-control": "https://github.com/working-group-purescript-es/purescript-control.git#es-modules",
+    "purescript-prelude": "https://github.com/working-group-purescript-es/purescript-prelude.git#es-modules"
   }
 }
